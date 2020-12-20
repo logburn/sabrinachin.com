@@ -7,7 +7,7 @@
 
 <h2 id=name>RIDDLE</h2>
 <div class=content>
-  Heheh, Merry Christmas. This is the thing I just couldn't get done (the riddle, not the website), so I hope it hodgepodged itself together well. I wanted matching websites so I made matching websites :). I can change it to be anything you want, including a complete redesign if you tell me what you want.<br>Anyways, you can get started now if you want.
+  Heheh, Merry Christmas. This is the thing I just couldn't get done (the riddle, not the website), so I hope it hodgepodged itself together well. I wanted matching websites so I made matching websites :). I can change it to be anything you want, including a complete redesign if you tell me what you want.<br>Anyways, you can <a href=https://riddle.sabrinachin.com/>get started</a> now if you want.
 </div>
 
 </div></body>
