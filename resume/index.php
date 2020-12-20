@@ -2,8 +2,8 @@
 <html lang=en>
 <head>
   <meta charset=utf-8>
-  <title>Luke Ogburn - resume</title>
-  <link rel='shortcut icon' type=image/png href=/walker.png>
+  <title>Sabrina Chin - resume</title>
+  <link rel='shortcut icon' type=image/png href=/tristan.png>
   <meta name=viewport content=width=device-width,initial-scale=1.0>
   <style>
       body{
@@ -69,8 +69,8 @@
   </style>
 </head>
 <body>
-    <p class=top>Download as: <a href=resume.pdf download>pdf</a>, <a href=resume.odt download>odt</a>, <a href=resume.docx download>docx</a></p>
+    <p class=top><a href=resume.pdf download>Download as pdf</a></p>
     <p class=fail>Seems like that didn't display correctly, try downloading above instead</p>
-    <embed src=resume.pdf title="Luke Ogburn's Resume PDF"></embed>
+    <embed src=resume.pdf title="Sabrina Chin's Resume PDF"></embed>
 </body>
 </html>
