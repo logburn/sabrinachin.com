@@ -1,0 +1,10 @@
+:root{
+    --bg-color: #1a1a1b;
+    --txt-color: #d7dadc;
+    --secondary-txt-color: #d7dadc;
+    /*--green: #198c47;*/
+    --green: #00ab44;
+}
+#moonImg{
+    filter: invert(100%) opacity(60%);
+}

@@ -1,0 +1,9 @@
+:root{
+    --bg-color: #f1f2f3;
+    --txt-color: #222;
+    --secondary-txt-color: #000;
+    --green: #00ab44;
+}
+#moonImg{
+    filter: opacity(60%);
+}
