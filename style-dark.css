@@ -3,7 +3,7 @@
     --txt-color: #d7dadc;
     --secondary-txt-color: #d7dadc;
     /*--green: #198c47;*/
-    --green: #00ab44;
+    --green: #efa2ff;
 }
 #moonImg{
     filter: invert(100%) opacity(60%);

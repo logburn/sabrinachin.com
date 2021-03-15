@@ -6,9 +6,11 @@
 <?php include "top.php"; ?>
 
   <div id=content>
-    <p>My name is <span class="letter">S</span><span class="letter">a</span><span class="letter">b</span><span class="letter">r</span><span class="letter">i</span><span class="letter">n</span><span class="letter">a</span> <span class="letter">C</span><span class="letter">h</span><span class="letter">i</span><span class="letter">n</span>, and I'm BIT major part of the Calhoun Discovery Program. I am passionate about making education accessible so everyone and believe that technology can bring education to everyone. I am also the girlfriend of <a href=https://lukeogburn.com>Luke Ogburn</a>, an awesome boyfriend who always loves me. He is so super cool and awesome.
-    </p>
-    <p>hai this iss walker and i waanted to say thet i lov tristan becas he is very nise and has nise horns</p>
+    <p>My name is <span class="letter">S</span><span class="letter">a</span><span class="letter">b</span><span class="letter">r</span><span class="letter">i</span><span class="letter">n</span><span class="letter">a</span> <span class="letter">C</span><span class="letter">h</span><span class="letter">i</span><span class="letter">n</span>, and I'm studying Business Information Technology with a focus in Cybersecurity Management at Virginia Tech! 
+At VT, I'm a part of the Calhoun Discovery Program; this program is focused on utilizing technology for societal impacts. I'm passionate about making education accessible, and I believe that technology has the ability to uplift and empower those in need. <br>
+Outside of class, I like watching RomComs and eating ice cream. :) 
+ </p>
+    
   </div>
 
   <h2 class=name>CONNECT</h2>

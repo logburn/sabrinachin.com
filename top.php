@@ -53,7 +53,6 @@
     <h1 id="me"><span class="letter">S</span><span class="letter">A</span><span class="letter">B</span><span class="letter">R</span><span class="letter">I</span><span class="letter">N</span><span class="letter">A</span> <span class="letter">C</span><span class="letter">H</span><span class="letter">I</span><span class="letter">N</span></h1>
     <div id=menu>
       <h3 class=mi><a id=js1 href=/<?=$addon?>>HOME</a></h3><!--
-   --><h3 class=mi><a id=js2 href=about.php<?=$addon?>>ABOUT</a></h3><!--
-   --><h3 class=mi><a id=js3 href=projects.php<?=$addon?>>RIDDLE</a></h3>
+   --><h3 class=mi><a id=js2 href=about.php<?=$addon?>>ABOUT</a></h3>
     </div>
   </div>
