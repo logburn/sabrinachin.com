@@ -36,11 +36,11 @@
       var checkbox = document.getElementById("themeCheckbox");
       switch(cssFile){
           case "style-light.css":
-              removeGet(4);
+              removeGet(2);
               checkbox.setAttribute("onclick", "changeCSS('style-dark.css')");
               break;
           case "style-dark.css":
-              addGet(4);
+              addGet(2);
               checkbox.setAttribute("onclick", "changeCSS('style-light.css')");
               break;
       }
